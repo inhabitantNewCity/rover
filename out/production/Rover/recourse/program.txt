@@ -1,0 +1,7 @@
+[log = true]
+[status = true]
+===
+move
+lift
+turn SOUGHT
+land 2,2
